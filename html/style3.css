@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: large;
+    background-color: peachpuff;
+}
+#dropdown{
+    color: rgb(98, 39, 194);
+}
+#drop{
+    color: rgb(101, 197, 12);
+}
+.op{
+    font-style: italic;
+}
